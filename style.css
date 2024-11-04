@@ -101,7 +101,7 @@ body {
     position: absolute;
     top: 28px;
     right: 50px;
-    background: url(/image/arrow_right.svg) no-repeat;
+    background: url(image/arrow_right.svg) no-repeat;
     width: 8px;
     height: 12px;
 }
@@ -120,7 +120,7 @@ body {
 .brands__read-more-text::before{
     content: '';
     position: absolute;
-    background: url(/image/expand.svg);
+    background: url(image/expand.svg);
     width: 24px;
     height: 24px;
     top: 0px;
